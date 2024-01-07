@@ -25,3 +25,7 @@ To run the .ts files you need to run :
 tsc 1.ts
 node 1.js
 ```
+
+## Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/LucasWry?theme=dark)
