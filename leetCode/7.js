@@ -4,6 +4,10 @@
  * @param {number[]} prices
  * @return {number}
  */
+
+// NOT WORKING SEE 9.ts
+
+
 var maxProfit = function (prices) {
   let maxProfit1 = 0;
   let maxProfit2 = 0;
