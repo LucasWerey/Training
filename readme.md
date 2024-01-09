@@ -5,13 +5,13 @@
 
 > The purpose of this repository is to keep a record of all my training in solving algorithms.
 
-### Clone to local
+## Clone to local
 
 ```bash
 git clone https://github.com/LucasWerey/Training.git
 ```
 
-### Run files
+## Run files
 
 To run the .js files you need to run :
 
@@ -22,8 +22,7 @@ node 1.js
 To run the .ts files you need to run :
 
 ```bash
-tsc 1.ts
-node 1.js
+ts-node 1.ts
 ```
 
 ## Stats
