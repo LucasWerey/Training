@@ -3,7 +3,7 @@
  * 1071. Greatest Common Divisor of Strings
  */
 
-function gcdOfStrings(str1: string, str2: string): string {
+function gcdOfStrings(str1: string, str2: string) {
   if (str1.length < str2.length) return gcdOfStrings(str2, str1);
 }
 
